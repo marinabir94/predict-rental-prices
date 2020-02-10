@@ -1,5 +1,5 @@
 # Predict Rental Prices
-This repo contains the Predict Rental Prices for the city of Barcelona. The rental prices were scrapped from a property website based on properties located in Malaysia. Four different types of algorithms were used to train the models which consist of three machine learning (ML) and one deep learning (DL) algorithm. This project focuses on comparing the performance and results of these four algorithms instead of explaining the theory behind the algorithms as it assumes that readers already familiar with these algorithms. For readers who are in a hurry, feel free to dive straight into section 5. Discussion and Conclusion.
+This repo contains the Predict Rental Prices project. The rental prices were scrapped from a property website based on properties located in Malaysia. Four different types of algorithms were used to train the models which consist of three machine learning (ML) and one deep learning (DL) algorithm. This project focuses on comparing the performance and results of these four algorithms instead of explaining the theory behind the algorithms as it assumes that readers already familiar with these algorithms. For readers who are in a hurry, feel free to dive straight into section 5. Discussion and Conclusion.
 
 1. Linear Regression
 2. Random Forest
